@@ -1,5 +1,5 @@
 #Gustavo Alovisi
-##Equação de Primeiro Grau - solver ax = b
+## solver ax = b
 
 import numpy as np
 
