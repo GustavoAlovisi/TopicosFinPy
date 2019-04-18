@@ -1,14 +1,8 @@
 #Gustavo Alovisi
 #Resolva a raíz quadrada dada pelo usuário.
 
-
-def sqroot(a):
-    for i in a:
-        print(i)
-    return a
-
-
+import math
 
 x = input("Digite o número:\n")
-print("A raíz quadrada é:", sqroot(x))
+print("A raíz quadrada é:", math.sqrt(x))
 
